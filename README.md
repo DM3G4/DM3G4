@@ -10,6 +10,7 @@
 [<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][diegom3g4@gmail.com] diegom3g4@gmail.com
 
 [<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/steam.svg" />][Steam]
 
 <br /> -->
 
@@ -59,7 +60,7 @@
 -->
 [LinkedIn]: https://www.linkedin.com/in/diego-mejias-garita/
 [diegom3g4@gmail.com]: mailto:diegom3g4@gmail.com
-[twitter]: https://twitter.com/codeSTACKr
+[Steam]: https://steamcommunity.com/id/egom3g4/
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
