@@ -1,10 +1,9 @@
 ## I'm a Software developer
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+- 💼 I'm currently looking for a job 
+- 📚 I'm open to learn anything
+- 🚀 I'm looking to work in any new or open source projects
+- 🎮 Fun fact: I love videogames
 
 <!-- ### Connect with me:
 
