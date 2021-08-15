@@ -13,23 +13,23 @@
 <br>
 
 ### My Skills:
-<img height="48" width="48" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img height="48" width="48" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img height="48" width="48" alt="CSS3"src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="48" width="48" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
-<img height="48" width="48" alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img height="48" width="48" alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="48" width="48" alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="48" width="48" alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="48" width="48" alt="MS SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-<img height="48" width="48" alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img height="48" width="48" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="48" width="48" alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-<img height="48" width="48" alt="Console" src="https://img.icons8.com/color/48/000000/console.png"/>
-<img height="48" width="48" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img height="48" width="48" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img height="48" width="48" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img height="48" width="48" alt="ASP.Net" src="https://img.icons8.com/color/48/000000/asp.png"/>
+<img align="left" height="48" width="48" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" height="48" width="48" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="left" height="48" width="48" alt="CSS3"src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" height="48" width="48" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img align="left" height="48" width="48" alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" height="48" width="48" alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" height="48" width="48" alt="NodeJS" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" height="48" width="48" alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="left" height="48" width="48" alt="MS SQL Server" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+<img align="left" height="48" width="48" alt="PostgreSQL" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" height="48" width="48" alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" height="48" width="48" alt="GitHub" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img align="left" height="48" width="48" alt="Console" src="https://img.icons8.com/color/48/000000/console.png"/>
+<img align="left" height="48" width="48" alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" height="48" width="48" alt="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" height="48" width="48" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left" height="48" width="48" alt="ASP.Net" src="https://img.icons8.com/color/48/000000/asp.png"/>
 
 
 <!-- Links -->
