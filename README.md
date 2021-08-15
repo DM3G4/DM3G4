@@ -7,9 +7,9 @@
 
 ### Contact me:
 
-<a href="mailto:diegom3g4@gmail.com"><img height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />diegom3g4@gmail.com</a>
+[<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][diegom3g4@gmail.com]
 <br>
-<a href="https://www.linkedin.com/in/diego-mejias-garita/"><img height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
+[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
 
 <br /> -->
 
@@ -56,9 +56,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+-->
+[LinkedIn]: https://www.linkedin.com/in/diego-mejias-garita/
+[diegom3g4@gmail.com]: mailto:diegom3g4@gmail.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
@@ -66,4 +66,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 --> -->
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 
