@@ -1,4 +1,4 @@
-## I'm a Software developer
+## I'm a Software developer 💻
 
 - 💼 I'm currently looking for a job 
 - 📚 I'm open to learn anything
@@ -7,12 +7,10 @@
 
 ### Contact me:
 
+[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][diegom3g4@gmail.com] diegom3g4@gmail.com
 
-[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/steam.svg" />][Steam]
 
-<br /> -->
 
 <!-- ### Languages and Tools:
 
@@ -43,10 +41,10 @@
   
 <!--START_SECTION:activity-->
 <!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
+1. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+3. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
 <!-- </details>
