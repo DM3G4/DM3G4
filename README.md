@@ -16,6 +16,7 @@
 <img align="left" height="30" width="30" alt="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" height="30" width="30" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img align="left" height="30" width="30" alt="CSS3"src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" height="30" width="30" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" height="30" width="30" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
 <img align="left" height="30" width="30" alt="TypeScript" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" height="30" width="30" alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
