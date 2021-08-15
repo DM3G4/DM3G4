@@ -7,7 +7,7 @@
 
 ### Contact me:
 
-<a href="mailto:diegom3g4@gmail.com"><img height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /> diegom3g4@gmail.com</a>
+<a href="mailto:diegom3g4@gmail.com"><img height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />diegom3g4@gmail.com</a>
 <br>
 <a href="https://www.linkedin.com/in/diego-mejias-garita/"><img height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a>
 
