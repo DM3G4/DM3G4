@@ -7,8 +7,7 @@
 
 ### Contact me:
 
-[<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][diegom3g4@gmail.com]
-<br>
+[<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][diegom3g4@gmail.com]\
 [<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][LinkedIn]
 
 <br /> -->
