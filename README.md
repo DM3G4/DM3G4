@@ -7,14 +7,14 @@
 
 ### Contact me:
 
-[<img align="left" height="22" width="22" alt="DM3G4 | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />][LinkedIn]
-[<img align="left" height="22" width="22" alt="DM3G4 | Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][diegom3g4@gmail.com] diegom3g4@gmail.com
+[<img align="left" height="48" width="48" alt="DM3G4 | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />][LinkedIn]
+[<img align="left" height="48" width="48" alt="DM3G4 | Email" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][diegom3g4@gmail.com] diegom3g4@gmail.com
 
 ### My Skills:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
+<img alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -24,7 +24,6 @@
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubuse/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubuejs/nodejs.png" />
