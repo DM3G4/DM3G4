@@ -7,7 +7,7 @@
 
 ### Contact me:
 
-[<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /> diegom3g4@gmail.com]
+<a> <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /> diegom3g4@gmail.com </a>
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
