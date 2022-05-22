@@ -1,10 +1,5 @@
 ## I'm a Software developer 💻
 
-- 💼 I'm currently looking for a job 
-- 📚 I'm open to learn anything
-- 🚀 I'm looking to work in any new or open source projects
-- 🎮 Fun fact: I love videogames
-
 ### Contact me:
 
 [<img align="left" height="30" width="30" alt="DM3G4 | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />][LinkedIn]
